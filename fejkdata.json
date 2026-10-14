@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/larvit/fejkdata/releases/download/v0.1.0/fejkdata_0.1.0_windows_amd64.zip",
+            "bin": [
+                "fejkdata.exe"
+            ],
+            "hash": "90290eabd954b0823fc590bd389d33debed15d75581254538afed7ad94810897"
+        },
+        "arm64": {
+            "url": "https://github.com/larvit/fejkdata/releases/download/v0.1.0/fejkdata_0.1.0_windows_arm64.zip",
+            "bin": [
+                "fejkdata.exe"
+            ],
+            "hash": "ae9ec759c292c3111c50b7d026b9dbffe01d9db2305ec710dceeaa7b834d37b0"
+        }
+    },
+    "homepage": "https://github.com/larvit/fejkdata",
+    "license": "MIT",
+    "description": "Render locale-aware fake data from JSON templates"
+}

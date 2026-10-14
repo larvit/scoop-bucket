@@ -6,14 +6,14 @@
             "bin": [
                 "fejkdata.exe"
             ],
-            "hash": "90290eabd954b0823fc590bd389d33debed15d75581254538afed7ad94810897"
+            "hash": "58ab411c358339cc73b3dc02c26d0c2ecfab32e8d9cff0445ac23749ca370910"
         },
         "arm64": {
             "url": "https://github.com/larvit/fejkdata/releases/download/v0.1.0/fejkdata_0.1.0_windows_arm64.zip",
             "bin": [
                 "fejkdata.exe"
             ],
-            "hash": "ae9ec759c292c3111c50b7d026b9dbffe01d9db2305ec710dceeaa7b834d37b0"
+            "hash": "74702c88aea955b2728de104623b9783e4caf9379fc72ffe613f27335d8f96b8"
         }
     },
     "homepage": "https://github.com/larvit/fejkdata",

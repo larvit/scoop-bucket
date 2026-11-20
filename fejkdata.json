@@ -1,19 +1,19 @@
 {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/larvit/fejkdata/releases/download/v0.6.1/fejkdata_0.6.1_windows_amd64.zip",
+            "url": "https://github.com/larvit/fejkdata/releases/download/v0.7.0/fejkdata_0.7.0_windows_amd64.zip",
             "bin": [
                 "fejkdata.exe"
             ],
-            "hash": "dc1a69cb21a61463957ab318fbc44117b0452487f5a0b33af0f7474a0a4828fe"
+            "hash": "acc4cab1c3767342bb6184b59141d4c727829383ccd03ced78fc68c449b9aeca"
         },
         "arm64": {
-            "url": "https://github.com/larvit/fejkdata/releases/download/v0.6.1/fejkdata_0.6.1_windows_arm64.zip",
+            "url": "https://github.com/larvit/fejkdata/releases/download/v0.7.0/fejkdata_0.7.0_windows_arm64.zip",
             "bin": [
                 "fejkdata.exe"
             ],
-            "hash": "b1d30d1294eb529a7aaff06579d17cd372bc34e32a83b274ba43e01b664a665a"
+            "hash": "fb8ebf6693e058cff1b70da707453e548757ce28502e3b9be3d3e51658af87fd"
         }
     },
     "homepage": "https://github.com/larvit/fejkdata",

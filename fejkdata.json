@@ -1,22 +1,22 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/larvit/fejkdata/releases/download/v0.7.0/fejkdata_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/larvit/fejkdata/releases/download/v0.8.0/fejkdata_0.8.0_windows_amd64.zip",
             "bin": [
                 "fejkdata.exe"
             ],
-            "hash": "acc4cab1c3767342bb6184b59141d4c727829383ccd03ced78fc68c449b9aeca"
+            "hash": "47956e70578838b60776b7af4b9df588051dff327e60ccaca92415f2a80dd383"
         },
         "arm64": {
-            "url": "https://github.com/larvit/fejkdata/releases/download/v0.7.0/fejkdata_0.7.0_windows_arm64.zip",
+            "url": "https://github.com/larvit/fejkdata/releases/download/v0.8.0/fejkdata_0.8.0_windows_arm64.zip",
             "bin": [
                 "fejkdata.exe"
             ],
-            "hash": "fb8ebf6693e058cff1b70da707453e548757ce28502e3b9be3d3e51658af87fd"
+            "hash": "a20cf90e3d5519dcbf1731e61e0bbb1401cfbbd26116bfb8dd8e1979da6569da"
         }
     },
     "homepage": "https://github.com/larvit/fejkdata",
     "license": "MIT",
-    "description": "Render locale-aware fake data from JSON templates"
+    "description": "Fake data for tests. Related values match, like a postcode and its city."
 }
